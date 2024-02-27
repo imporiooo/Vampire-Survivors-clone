@@ -1,0 +1,10 @@
+^E:\УЧЕБА\VAMPIRE-SURVIVORS-CLONE\VAMPIRE-SURVIVORS-CLONE\BUILD\CMAKEFILES\FD2FE8F41141419AEECE99A4BBF73B9D\GENERATE.STAMP.RULE
+setlocal
+C:\mingw64\bin\cmake.exe -SE:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone -BE:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/Test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

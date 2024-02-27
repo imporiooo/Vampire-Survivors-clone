@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/mingw64/share/cmake-3.27/Modules/CMakeParseArguments.cmake
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/cmake/CompilerWarnings.cmake
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/cmake/Macros.cmake
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/src/SFML/CMakeLists.txt

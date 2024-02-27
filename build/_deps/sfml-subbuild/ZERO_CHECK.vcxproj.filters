@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\2ef1ca8d8434f4c0100fa14217cccb2e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\sfml-populate-prefix\tmp\sfml-populate-mkdirs.cmake">
+      <Filter>Buildsystem Input Files\sfml-populate-prefix\tmp</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5043E55F-56A0-3965-8D8E-D945D7FD6FE1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\sfml-populate-prefix\tmp">
+      <UniqueIdentifier>{962E4F26-3344-3A8E-B946-452749C3FE34}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

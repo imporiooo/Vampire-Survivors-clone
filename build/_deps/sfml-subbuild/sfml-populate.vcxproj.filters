@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\5bb164f767a27a611085569f0b73d1ad\sfml-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\5bb164f767a27a611085569f0b73d1ad\sfml-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\5bb164f767a27a611085569f0b73d1ad\sfml-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\5bb164f767a27a611085569f0b73d1ad\sfml-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\5bb164f767a27a611085569f0b73d1ad\sfml-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\5bb164f767a27a611085569f0b73d1ad\sfml-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\5bb164f767a27a611085569f0b73d1ad\sfml-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\5bb164f767a27a611085569f0b73d1ad\sfml-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\934e50508d93bca1dde878293e136af8\sfml-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\2ef1ca8d8434f4c0100fa14217cccb2e\sfml-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-subbuild\CMakeFiles\sfml-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5043E55F-56A0-3965-8D8E-D945D7FD6FE1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

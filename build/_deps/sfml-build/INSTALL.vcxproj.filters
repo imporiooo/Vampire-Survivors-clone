@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\CMakeFiles\e273196f949c04f3507359647750d46b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4467EC29-6AED-3FC6-BC7B-9D73D5F21C1B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

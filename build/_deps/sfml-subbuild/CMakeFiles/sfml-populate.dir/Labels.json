@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/2ef1ca8d8434f4c0100fa14217cccb2e/sfml-populate.rule"
+		},
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/934e50508d93bca1dde878293e136af8/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/5bb164f767a27a611085569f0b73d1ad/sfml-populate-build.rule"
+		},
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/5bb164f767a27a611085569f0b73d1ad/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/5bb164f767a27a611085569f0b73d1ad/sfml-populate-download.rule"
+		},
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/5bb164f767a27a611085569f0b73d1ad/sfml-populate-install.rule"
+		},
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/5bb164f767a27a611085569f0b73d1ad/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/5bb164f767a27a611085569f0b73d1ad/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/5bb164f767a27a611085569f0b73d1ad/sfml-populate-test.rule"
+		},
+		{
+			"file" : "E:/\u0423\u0447\u0435\u0431\u0430/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-subbuild/CMakeFiles/5bb164f767a27a611085569f0b73d1ad/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

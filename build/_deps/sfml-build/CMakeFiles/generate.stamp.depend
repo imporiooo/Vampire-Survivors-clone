@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/mingw64/share/cmake-3.27/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/mingw64/share/cmake-3.27/Modules/CMakePackageConfigHelpers.cmake
+C:/mingw64/share/cmake-3.27/Modules/CPack.cmake
+C:/mingw64/share/cmake-3.27/Modules/CPackComponent.cmake
+C:/mingw64/share/cmake-3.27/Modules/CheckIncludeFile.cmake
+C:/mingw64/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake
+C:/mingw64/share/cmake-3.27/Modules/CheckTypeSize.cmake
+C:/mingw64/share/cmake-3.27/Modules/GNUInstallDirs.cmake
+C:/mingw64/share/cmake-3.27/Modules/WriteBasicConfigVersionFile.cmake
+C:/mingw64/share/cmake-3.27/Templates/CPackConfig.cmake.in
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/CMakeLists.txt
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/cmake/Config.cmake
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/cmake/SFMLConfig.cmake.in
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/cmake/SFMLConfigDependencies.cmake.in

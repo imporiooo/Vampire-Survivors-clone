@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/mingw64/share/cmake-3.27/Modules/FindOpenAL.cmake
+C:/mingw64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/mingw64/share/cmake-3.27/Modules/FindPackageMessage.cmake
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/cmake/Modules/FindFLAC.cmake
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/cmake/Modules/FindVORBIS.cmake
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/src/SFML/Audio/CMakeLists.txt

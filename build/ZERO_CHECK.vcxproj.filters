@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\CMakeFiles\fd2fe8f41141419aeece99a4bbf73b9d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\cmake\CompilerWarnings.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\cmake</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\cmake\Config.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\cmake</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\cmake\Macros.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\cmake</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\cmake\Modules\FindFLAC.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\cmake\Modules</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\cmake\Modules\FindFreetype.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\cmake\Modules</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\cmake\Modules\FindVORBIS.cmake">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\cmake\Modules</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\cmake\SFMLConfig.cmake.in">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\cmake</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\cmake\SFMLConfigDependencies.cmake.in">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\cmake</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\src\SFML\Audio\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\src\SFML\Audio</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\src\SFML\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\src\SFML</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\src\SFML\Graphics\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\src\SFML\Graphics</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\src\SFML\Main\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\src\SFML\Main</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\src\SFML\Network\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\src\SFML\Network</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\src\SFML\System\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\src\SFML\System</Filter>
+    </None>
+    <None Include="E:\Учеба\Vampire-Survivors-clone\Vampire-Survivors-clone\build\_deps\sfml-src\src\SFML\Window\CMakeLists.txt">
+      <Filter>Buildsystem Input Files\build\_deps\sfml-src\src\SFML\Window</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4467EC29-6AED-3FC6-BC7B-9D73D5F21C1B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{61A2DC8C-ABA5-32A9-94AA-4E2C3811547D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\sfml-src">
+      <UniqueIdentifier>{87827E5E-4979-3C60-A010-A7C04186D971}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\sfml-src\cmake">
+      <UniqueIdentifier>{D1DB7DC9-63FE-3D43-B185-6732366D4936}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\sfml-src\cmake\Modules">
+      <UniqueIdentifier>{62D3B0A1-C31B-36ED-9E2C-34ACFDE5AEF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\sfml-src\src\SFML">
+      <UniqueIdentifier>{6518E3B7-F1B2-3E79-B664-FBFFA985A674}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\sfml-src\src\SFML\Audio">
+      <UniqueIdentifier>{1599C243-6290-3F73-A1C4-E392D8446C00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\sfml-src\src\SFML\Graphics">
+      <UniqueIdentifier>{5C5E6822-A3BD-30DC-AF03-DC9E36F37F33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\sfml-src\src\SFML\Main">
+      <UniqueIdentifier>{81B4332A-8EB8-3959-87B4-13F45AF92C58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\sfml-src\src\SFML\Network">
+      <UniqueIdentifier>{9AA1E4B6-3E08-33C2-A372-F4D15809B824}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\sfml-src\src\SFML\System">
+      <UniqueIdentifier>{6C4407B4-B855-30FC-92AE-5BB447AD7200}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Buildsystem Input Files\build\_deps\sfml-src\src\SFML\Window">
+      <UniqueIdentifier>{AB64A3FB-557F-3875-BB53-D769CEF0496E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

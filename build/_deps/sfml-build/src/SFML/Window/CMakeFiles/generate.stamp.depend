@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/mingw64/share/cmake-3.27/Modules/FindOpenGL.cmake
+C:/mingw64/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake
+C:/mingw64/share/cmake-3.27/Modules/FindPackageMessage.cmake
+E:/Учеба/Vampire-Survivors-clone/Vampire-Survivors-clone/build/_deps/sfml-src/src/SFML/Window/CMakeLists.txt
